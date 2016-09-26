@@ -13,7 +13,11 @@ Morning
 
 10:00-10:10 Conference opening speech and schedule introduction
 
+Rapid API Development based on Djando Restful Framework. With the booming of microservice, API is more and more important. The methodology of rapid constructing API suiting changes of requirement could increase the productivity greatly.
+The topic is mainly show how to design and implemented a RESTful API and relative stuffs.
+
 10:10-10:55 Django REST Quick Start 张海波
+Many python tools and framework have existed in security domain for years
 
 10:55-11:40 Python in host white box security detection 李毅为
 
